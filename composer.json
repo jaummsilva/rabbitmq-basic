@@ -1,0 +1,9 @@
+{
+    "name": "integracao/integracao",
+    "type": "false",
+    "scripts": {},
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
